@@ -5,7 +5,6 @@ function Home() {
       <h1>
         Então nunca desista! Pois o caminho mais certo de vencer é tentar mais uma vez.
       </h1>
-      <p>Thomas Edison</p>
     </>
   );
 }
