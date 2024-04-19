@@ -1,2 +1,3 @@
 .next
 node_modules/
+nvm use/google-cloud-sdk/
